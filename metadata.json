@@ -1,0 +1,6 @@
+{
+  "name": "Grupo Antark - Residencial Germán Rázuri",
+  "description": "Casas unifamiliares con bono Techo Propio en San Pedro de Lloc, La Libertad. Proyecto registrado en Fondo MIVIVIENDA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
